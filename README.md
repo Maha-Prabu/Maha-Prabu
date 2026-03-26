@@ -1,115 +1,104 @@
-<h1 align="center">Hi 👋, I'm Mahaprabu K</h1>
-
-<h3 align="center">Aspiring IT Professional | Python | Networking | Cybersecurity</h3>
+<h1 align="center">Mahaprabu K</h1>
+<p align="center">
+  <b>Aspiring IT Professional | Python | Networking | Cybersecurity</b>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-blue" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-success" />
-  <img src="https://img.shields.io/badge/Focus-IT%20%26%20Cybersecurity-informational" />
+  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-1f6feb" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f" />
+  <img src="https://img.shields.io/badge/Focus-IT%20%7C%20Cybersecurity-8250df" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I started my career in core mechanical roles, where I developed strong **problem-solving, quality control, and teamwork skills** in real-world environments.
+I began my career in mechanical industry roles, gaining hands-on experience in **quality control, process improvement, and real-time problem solving**.
 
-Now, I am transitioning into the IT field, focusing on:
+I am now transitioning into the IT domain with a strong focus on:
 
-- 🐍 Python Programming  
-- 🌐 Networking Fundamentals  
-- 🔐 Cybersecurity Basics  
+- Python Programming  
+- Networking Fundamentals  
+- Cybersecurity Basics  
 
-💡 I am actively learning, building projects, and looking for **entry-level opportunities in IT** (Cybersecurity, IT Support, Networking, Developer roles).
+Currently, I am building foundational skills and practical projects while actively seeking **entry-level IT opportunities** across support, networking, development, and security domains.
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills
 
-### 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+**Programming**
+- Python  
 
-### 🌐 Networking
-- TCP/IP  
-- DNS  
-- Subnetting  
+**Networking**
+- TCP/IP, DNS, Subnetting  
 - Network Troubleshooting  
 
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
-</p>
-
+**Tools & Platforms**
 - Wireshark  
 - Cisco Packet Tracer  
+- Git & GitHub  
+- Visual Studio Code  
 
-### 🖥️ Operating Systems
-- Linux  
-- Windows  
-
----
-
-## 📂 Projects
-
-### 🔐 Password Strength Checker
-- Built using Python and Regex  
-- Validates password complexity and security rules  
-- Demonstrates scripting & problem-solving skills  
-
-🔗 *Project link will be added soon*
+**Operating Systems**
+- Linux, Windows  
 
 ---
 
-## 📚 Currently Learning
+## Projects
 
-- Advanced Python  
-- Networking Concepts  
-- Cybersecurity Fundamentals  
+### Password Strength Checker
+- Developed using Python and Regular Expressions  
+- Implements password validation based on security rules  
+- Demonstrates scripting, logic building, and validation techniques  
 
----
-
-## 💼 Career Background
-
-- 🏭 HDT Chassis Assembly Operator – Daimler India  
-- 🏗️ Site Supervisor – M.S. Enterprises  
-- 🔍 Quality Inspector – CNC Industry  
-
-💡 Strong in:
-- Problem-solving  
-- Process improvement (Kaizen)  
-- Quality assurance  
-- Team coordination  
+> Project link will be updated after repository upload
 
 ---
 
-## 🎯 Career Goal
+## Currently Learning
 
-To start my career in the IT industry and grow into a skilled **Cybersecurity Professional**.
+- Advanced Python concepts  
+- Networking (practical scenarios)  
+- Cybersecurity fundamentals  
 
 ---
 
-## 📊 GitHub Stats
+## Professional Background
+
+- **HDT Chassis Assembly Operator** – Daimler India Commercial Vehicles  
+- **Site Supervisor** – M.S. Enterprises  
+- **Quality Inspector** – CNC Manufacturing  
+
+**Core Strengths**
+- Problem-solving in real-time environments  
+- Process improvement (Kaizen approach)  
+- Quality assurance and compliance  
+- Team coordination and responsibility handling  
+
+---
+
+## Career Objective
+
+To establish a strong foundation in the IT industry and progressively specialize in cybersecurity through continuous learning and hands-on experience.
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maha-Prabu&show_icons=true&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## Contact
 
-<p>
-  <a href="mailto:mahaprabuk27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop%20a%20message-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/mahaprabu-k-89369722a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+- Email: mahaprabuk27@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mahaprabu-k-89369722a  
 
 ---
 
-⭐ *“Learning consistently and building step by step towards a strong IT career.”*
+<p align="center">
+  <i>Focused on consistent learning and building practical skills in IT.</i>
+</p>
