@@ -1,30 +1,29 @@
 <h1 align="center">Hi 👋, I'm Mahaprabu K</h1>
-
-<h3 align="center">Aspiring IT Professional | Python | Networking | Cybersecurity Enthusiast </h3>
+<h3 align="center">Aspiring IT Professional | Python • Networking • Cybersecurity</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-blue" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-success" />
-  <img src="https://img.shields.io/badge/Focus-IT%20%26%20Cybersecurity-informational" />
+  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-IT%20Support%20%7C%20Networking%20%7C%20Cybersecurity-informational?style=flat-square" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I started my career in core mechanical roles, where I developed strong **problem-solving, quality control, and teamwork skills** in real-world environments.
+I began my career in the mechanical industry, where I developed strong foundations in **problem-solving, quality control, and team coordination** through real-world industrial experience.
 
-Now, I am transitioning into the IT field, focusing on:
+Currently, I am transitioning into the IT domain with a focus on:
 
 - 🐍 Python Programming  
 - 🌐 Networking Fundamentals  
 - 🔐 Cybersecurity Basics  
 
-💡 I am actively learning, building projects, and looking for **entry-level opportunities in IT** (Cybersecurity, IT Support, Networking, Developer roles).
+I am actively building my skills and projects, and I am open to **entry-level roles in IT**, including IT Support, Networking, and Cybersecurity.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Technical Skills
 
 ### 💻 Programming
 <p>
@@ -37,7 +36,7 @@ Now, I am transitioning into the IT field, focusing on:
 - Subnetting  
 - Network Troubleshooting  
 
-### 🧰 Tools
+### 🧰 Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
 </p>
@@ -54,47 +53,47 @@ Now, I am transitioning into the IT field, focusing on:
 ## 📂 Projects
 
 ### 🔐 Password Strength Checker
-- Built using Python and Regex  
-- Validates password complexity and security rules  
-- Demonstrates scripting & problem-solving skills  
+- Developed using **Python & Regular Expressions**
+- Validates password strength based on defined security rules
+- Demonstrates scripting, validation logic, and problem-solving skills
 
-🔗 *Project link will be added soon*
+🔗 *Project repository will be linked here*
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Python  
-- Networking Concepts  
+- Advanced Python Concepts  
+- Networking (Protocols & Troubleshooting)  
 - Cybersecurity Fundamentals  
 
 ---
 
-## 💼 Career Background
+## 💼 Professional Background
 
-- 🏭 HDT Chassis Assembly Operator – Daimler India  
-- 🏗️ Site Supervisor – M.S. Enterprises  
-- 🔍 Quality Inspector – CNC Industry  
+- 🏭 **HDT Chassis Assembly Operator** – Daimler India  
+- 🏗️ **Site Supervisor** – M.S. Enterprises  
+- 🔍 **Quality Inspector** – CNC Industry  
 
-💡 Strong in:
-- Problem-solving  
-- Process improvement (Kaizen)  
-- Quality assurance  
-- Team coordination  
-
----
-
-## 🎯 Career Goal
-
-To start my career in the IT industry and grow into a skilled **Cybersecurity Professional**.
+**Key Strengths:**
+- Process Improvement (Kaizen)  
+- Quality Assurance & Zero-Defect Focus  
+- Problem Solving in High-Pressure Environments  
+- Team Collaboration & Coordination  
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Career Objective
+
+To begin a career in the IT industry and grow into a **skilled Cybersecurity Professional**, while building strong technical foundations in networking and software.
+
+---
+
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maha-Prabu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maha-Prabu&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -103,13 +102,15 @@ To start my career in the IT industry and grow into a skilled **Cybersecurity Pr
 
 <p>
   <a href="mailto:mahaprabuk27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop%20a%20message-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mahaprabu-k-89369722a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐ *“Learning consistently and building step by step towards a strong IT career.”*
+<p align="center">
+  ⭐ <i>Consistent learning + practical implementation = long-term success in IT</i>
+</p>
