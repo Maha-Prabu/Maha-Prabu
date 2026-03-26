@@ -1,104 +1,116 @@
-<h1 align="center">Mahaprabu K</h1>
-<p align="center">
-  <b>Aspiring IT Professional | Python | Networking | Cybersecurity</b>
-</p>
+<h1 align="center">Hi 👋, I'm Mahaprabu K</h1>
+<h3 align="center">Aspiring IT Professional | Python • Networking • Cybersecurity</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-1f6feb" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f" />
-  <img src="https://img.shields.io/badge/Focus-IT%20%7C%20Cybersecurity-8250df" />
+  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-IT%20Support%20%7C%20Networking%20%7C%20Cybersecurity-informational?style=flat-square" />
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I began my career in mechanical industry roles, gaining hands-on experience in **quality control, process improvement, and real-time problem solving**.
+I began my career in the mechanical industry, where I developed strong foundations in **problem-solving, quality control, and team coordination** through real-world industrial experience.
 
-I am now transitioning into the IT domain with a strong focus on:
+Currently, I am transitioning into the IT domain with a focus on:
 
-- Python Programming  
-- Networking Fundamentals  
-- Cybersecurity Basics  
+- 🐍 Python Programming  
+- 🌐 Networking Fundamentals  
+- 🔐 Cybersecurity Basics  
 
-Currently, I am building foundational skills and practical projects while actively seeking **entry-level IT opportunities** across support, networking, development, and security domains.
+I am actively building my skills and projects, and I am open to **entry-level roles in IT**, including IT Support, Networking, and Cybersecurity.
 
 ---
 
-## Skills
+## 🛠️ Technical Skills
 
-**Programming**
-- Python  
+### 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-**Networking**
-- TCP/IP, DNS, Subnetting  
+### 🌐 Networking
+- TCP/IP  
+- DNS  
+- Subnetting  
 - Network Troubleshooting  
 
-**Tools & Platforms**
+### 🧰 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
+</p>
+
 - Wireshark  
 - Cisco Packet Tracer  
-- Git & GitHub  
-- Visual Studio Code  
 
-**Operating Systems**
-- Linux, Windows  
-
----
-
-## Projects
-
-### Password Strength Checker
-- Developed using Python and Regular Expressions  
-- Implements password validation based on security rules  
-- Demonstrates scripting, logic building, and validation techniques  
-
-> Project link will be updated after repository upload
+### 🖥️ Operating Systems
+- Linux  
+- Windows  
 
 ---
 
-## Currently Learning
+## 📂 Projects
 
-- Advanced Python concepts  
-- Networking (practical scenarios)  
-- Cybersecurity fundamentals  
+### 🔐 Password Strength Checker
+- Developed using **Python & Regular Expressions**
+- Validates password strength based on defined security rules
+- Demonstrates scripting, validation logic, and problem-solving skills
 
----
-
-## Professional Background
-
-- **HDT Chassis Assembly Operator** – Daimler India Commercial Vehicles  
-- **Site Supervisor** – M.S. Enterprises  
-- **Quality Inspector** – CNC Manufacturing  
-
-**Core Strengths**
-- Problem-solving in real-time environments  
-- Process improvement (Kaizen approach)  
-- Quality assurance and compliance  
-- Team coordination and responsibility handling  
+🔗 *Project repository will be linked here*
 
 ---
 
-## Career Objective
+## 📚 Currently Learning
 
-To establish a strong foundation in the IT industry and progressively specialize in cybersecurity through continuous learning and hands-on experience.
+- Advanced Python Concepts  
+- Networking (Protocols & Troubleshooting)  
+- Cybersecurity Fundamentals  
 
 ---
 
-## GitHub Activity
+## 💼 Professional Background
+
+- 🏭 **HDT Chassis Assembly Operator** – Daimler India  
+- 🏗️ **Site Supervisor** – M.S. Enterprises  
+- 🔍 **Quality Inspector** – CNC Industry  
+
+**Key Strengths:**
+- Process Improvement (Kaizen)  
+- Quality Assurance & Zero-Defect Focus  
+- Problem Solving in High-Pressure Environments  
+- Team Collaboration & Coordination  
+
+---
+
+## 🎯 Career Objective
+
+To begin a career in the IT industry and grow into a **skilled Cybersecurity Professional**, while building strong technical foundations in networking and software.
+
+---
+
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maha-Prabu&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maha-Prabu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maha-Prabu&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Contact
+## 📫 Connect With Me
 
-- Email: mahaprabuk27@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/mahaprabu-k-89369722a  
+<p>
+  <a href="mailto:mahaprabuk27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahaprabu-k-89369722a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Focused on consistent learning and building practical skills in IT.</i>
+  ⭐ <i>Consistent learning + practical implementation = long-term success in IT</i>
 </p>
