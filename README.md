@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahaprabu K</h1>
 
-<h3 align="center">Aspiring IT Professional | Python | Networking | Cybersecurity</h3>
+<h3 align="center">Aspiring IT Professional | Python | Networking | Cybersecurity Enthusiast </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-blue" />
