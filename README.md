@@ -57,7 +57,7 @@ I am actively building my skills and projects, and I am open to **entry-level ro
 - Validates password strength based on defined security rules
 - Demonstrates scripting, validation logic, and problem-solving skills
 
-🔗 *Project repository will be linked here*
+🔗 https://github.com/Maha-Prabu/Password_Strength_Checker
 
 ---
 
