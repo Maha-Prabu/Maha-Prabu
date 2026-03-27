@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-IT%20Support%20%7C%20Networking%20%7C%20Cybersecurity-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-IT%20Roles%20%7C%20Networking%20%7C%20Cybersecurity-informational?style=flat-square" />
 </p>
 
 ---
